@@ -1,6 +1,6 @@
 # 📊 ElevateLabs - Task 3: Linear Regression
 
-**Author:** Rohith S D  
+**Author:** Nithyashree H S 
 **Repository:*[Nithya07062006/ElivateLabs](https://github.com/Nithya07062006/ElivateLabs)  
 
 ---
@@ -63,8 +63,6 @@ It covers:
 6. Interpret coefficients
 7. Visualize area vs price regression fit
 
----
-
 ## 📈 Sample Output
 MAE: 526312.45
 MSE: 1.23e+12
@@ -74,30 +72,22 @@ R² Score: 0.89
 Intercept: 1234567.89
 area: 2123.45
 bedrooms: -51234.56
-
-
----
-
 ## 🎯 Interview Prep
-| Question                                          | Answer                                                                 |
-|----------------------------------------------------|-------------------------------------------------------------------------|
-| What assumptions does linear regression make?     | Linearity, independence of errors, homoscedasticity, no multicollinearity, errors normally distributed. |
-| What is the R² score and its significance?         | Proportion of variance explained by the model — closer to 1 is better. |
-| MAE vs MSE — when to prefer one?                    | MAE is robust to outliers; MSE penalizes larger errors more.          |
-| What is multicollinearity?                         | High correlation between independent variables.                        |
-| Difference between simple and multiple regression? | 1 feature vs multiple features.                                        |
-| Can linear regression be used for classification?  | No — use logistic regression for classification tasks.                 |
-
----
-
+ Question                                                                                     
+1 What assumptions does linear regression make?     
+=>Linearity, independence of errors, homoscedasticity, no multicollinearity, errors normally distributed. 
+2 What is the R² score and its significance?         
+=>Proportion of variance explained by the model — closer to 1 is better. 
+ MAE vs MSE — when to prefer one?                    
+ =>MAE is robust to outliers; MSE penalizes larger errors more.          |
+ What is multicollinearity?                         
+ =>High correlation between independent variables.                        
+ Difference between simple and multiple regression? 
+1 feature vs multiple features.        
+Can linear regression be used for classification?  
+=>No — use logistic regression for classification tasks.                 
 ## 🧑‍💻 Author
-**Rohith S D** — [GitHub Profile](https://github.com/Nithya07062006)
-
----
-
+**NITHYASHREE HS** — [GitHub Profile](https://github.com/Nithya07062006)
 ## 📜 License
 This project is licensed under the MIT License.
-
----
-
 # 💡 _Happy Coding & Learning!_
